@@ -1,7 +1,14 @@
 {
-    "name": "OC表情包",
-    "version": "1.0",
-    "description": "我的OC表情",
-    "author": "ranranbb1314",
-    "memeImages": []
+  "id": "oc-meme-pack",
+  "name": "OC表情包",
+  "version": "1.0",
+  "description": "我的OC表情包",
+  "meme_list": [
+    {"file":"com.tencent.mm_20261002143329.png","keywords":["表情1"]},
+    {"file":"com.tencent.mm_20261002143338.png","keywords":["表情2"]},
+    {"file":"com.tencent.mm_20261002143352.png","keywords":["表情3"]},
+    {"file":"com.tencent.mm_20261002143358.png","keywords":["表情4"]},
+    {"file":"com.tencent.mm_20261002143405.png","keywords":["表情5"]},
+    {"file":"com.tencent.mm_20261002143417.png","keywords":["表情6"]}
+  ]
 }
