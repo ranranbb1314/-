@@ -3,6 +3,7 @@
   "name": "OC表情包",
   "version": "1.0",
   "description": "我的OC表情包",
+  "categories": ["oc"],
   "meme_list": [
     {"file":"com.tencent.mm_20261002143329.png","keywords":["表情1"]},
     {"file":"com.tencent.mm_20261002143338.png","keywords":["表情2"]},
